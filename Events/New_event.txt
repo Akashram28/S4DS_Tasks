@@ -1,0 +1,1 @@
+A bot competition where groups create bots for a pre-determinde game (lets say poker). These bots are allowed to play against each other like a real tournament. Team with the winning bot gets the prize.
