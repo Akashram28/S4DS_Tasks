@@ -1,3 +1,0 @@
-question	option a	option b	option c	option d
-Which of these ML models is preffered to get continuos output 	Linear Regression	KNN Classifier	Naïve Bayes	K-Means Clustering
-Which nlp vectorizer is most space-efficient for large corpus of data	Bag of Words	Word Embedding	TF-IDF	One Hot Encoding
